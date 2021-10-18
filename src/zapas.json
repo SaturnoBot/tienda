@@ -1,0 +1,59 @@
+{
+    "zapatillas": [{
+        "nombre": "Air MAX 90",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "1.jpg",
+        "id": 1
+    },
+    {
+        "nombre": "Air MAX 80",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "2.jpg",
+        "id": 2
+    },
+    {
+        "nombre": "Air MAX 70",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "3.jpg",
+        "id": 3
+    },
+    {
+        "nombre": "Air MAX 60",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "4.jpg",
+        "id": 4
+    },
+    {
+        "nombre": "Air MAX 50",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "5.jpg",
+        "id": 5
+    },
+    {
+        "nombre": "Air MAX 40",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "6.jpg",
+        "id": 6
+    },
+    {
+        "nombre": "Air MAX 30",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "7.jpg",
+        "id": 7
+    },
+    {
+        "nombre": "Air MAX 20",
+        "talle": "10 US",
+        "precio": "0,00",
+        "imagen": "8.jpg",
+        "id": 8
+    }
+]
+}
